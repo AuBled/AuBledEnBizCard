@@ -67,7 +67,7 @@ In order to quickly host the EnBizCard Generator on a machine running Docker and
 1. Clone the repository to your machine and `cd` into the directory.
 
 ```
-git clone git@github.com:vishnuraghavb/EnBizCard.git
+git clone git@github.com:AuBled/AuBledEnBizCard.git
 ```
 
 2. Create a .env file by copying and adjusting env.example:
